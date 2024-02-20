@@ -1,0 +1,3 @@
+[submodule "vendor/t2"]
+	path = vendor/t2
+	url = git@github.com:aequanimitas/t2.git
